@@ -9,11 +9,7 @@
 # Usage
 1. 請先確認是否有安裝 GCC 及 Python 
 2. 修改 UNZIPED_DIR 變數為解壓縮後的資料夾
-3. 執行此腳本即可
-
-# Demo
-![image](/img/result.PNG)
-成功的話會顯示 "filename.c has been compiled."，否則會顯示錯誤訊息
+3. 開啟CMD 編譯此腳本即可
 
 # Future
 1. Use multithreading
